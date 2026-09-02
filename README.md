@@ -214,7 +214,7 @@ If customer data must be stored independently in the customer's country, region,
 
 ## Contact
 
-To set up Push Delivery, request OpenAPI credentials, or discuss Private Deployment, contact [ble_tag888@163.com](mailto:ble_tag888@163.com).
+To set up Push Delivery, request OpenAPI credentials, or discuss Private Deployment, contact your integration representative.
 
 ## Revision History
 
